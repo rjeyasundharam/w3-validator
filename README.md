@@ -13,5 +13,5 @@ html_test:
     - php validate-html/index.php --commit_id=$CI_COMMIT_SHA --project_id=$CI_PROJECT_ID
 ```
 
-Run the Script using the coment 
+Run the Script using the comment 
 > php validate-html/index.php --commit_id=$CI_COMMIT_SHA --project_id=$CI_PROJECT_ID
